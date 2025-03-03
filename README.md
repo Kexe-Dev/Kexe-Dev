@@ -30,7 +30,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebe-Kexe&theme=xcode&bg_color=151515&point=none&area=true&line=fefefe&hide_border=false" alt="My Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebe-Kexe&theme=xcode&bg_color=151515&point=444443&area=true&line=fefefe&hide_border=false" alt="My Activity Graph" />
   </a>
 </p>
 <br>
