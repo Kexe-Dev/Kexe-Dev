@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bebe-Kexe&theme=dark" alt="My GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=bebe-Kexe&theme=dark" alt="My GitHub Streak" />
   </a>
 </p>
 <p align="center">
