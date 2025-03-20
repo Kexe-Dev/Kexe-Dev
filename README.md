@@ -5,7 +5,11 @@
   <a href="http://127.0.0.1/My Profile views">
     <img alt="My Profile views" src="https://img.shields.io/badge/Profile%20views-63-%2331eacb">
   </a>
+  <br>
+  <br>
+    <a href='https://ko-fi.com/K3K41C7SRD' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
+
 
 ## Overall Stats:
 <p align="center">
