@@ -12,7 +12,7 @@
 
 
 ## Overall Stats:
-### Currently working on other pojects outside github. I am really sorry for my inactivity on some of my repos.
+### Currently working on other projects outside GitHub. I am really sorry for my inactivity on some of my repos.
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
     <img src="https://github-readme-stats.vercel.app/api?username=bebe-Kexe&show_icons=true&theme=dark" alt="My GitHub Stats" />
