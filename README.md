@@ -1,12 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Alexander+Miroslav+Milan;Python+%7C+Networks+%7C+Infrastructure;Building+things+at+arqone.eu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Alexander+Miroslav+Milan;AI+Student;Networks+%7C+Cybersecurity+%7C+Self-hosting;Building+arqone.eu" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://arqone.eu"><img src="https://img.shields.io/badge/arqone.eu-ffffff?style=for-the-badge&logo=firefox&logoColor=black" alt="Website"/></a>
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-ffffff?style=for-the-badge&logo=arch-linux&logoColor=black"/>
+  <a href="https://arqone.eu"><img src="https://img.shields.io/badge/arqone.eu-dddddd?style=for-the-badge&logo=firefox&logoColor=black" alt="Website"/></a>
   <a href="https://instagram.com/arqone.eu"><img src="https://img.shields.io/badge/Instagram-aaaaaa?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
-  <a href="https://discord.com/invite/ND5rRqMbfp"><img src="https://img.shields.io/badge/Discord-888888?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"/></a>
-  <img src="https://komarev.com/ghpvc/?username=bebe-Kexe&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=333333" alt="Profile views"/>
+  <a href="https://discord.com/invite/ND5rRqMbfp"><img src="https://img.shields.io/badge/Discord-666666?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <img src="https://komarev.com/ghpvc/?username=bebe-Kexe&style=for-the-badge&color=333333&label=PROFILE+VIEWS&labelColor=111111" alt="Profile views"/>
 </p>
 
 ---
@@ -65,7 +66,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 **Arqone Frostline** - Public modded Minecraft server *(completed)*
 > Full server management, modpack creation & configuration, community management
 
-**Python & Discord bots** - [github.com/bebe-kexe](https://github.com/bebe-kexe)
+**Python & Discord bots** - [github.com/kexe-dev](https://github.com/kexe-dev)
 > Automation scripts, Discord bots for community management, self-hosted AI tooling experiments
 
 ---
@@ -80,12 +81,11 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=bebe-Kexe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=bbbbbb&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bebe-Kexe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kexe-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=bbbbbb&count_private=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bebe-Kexe&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666" />
+  <img src="https://streak-stats.demolab.com/?user=kexe-dev&theme=dark&hide_border=true&background=0d1117&ring=FF6600&fire=FF4500&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## ⏱️ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=bebe_kexe&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb&layout=compact" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=kexe_dev&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb&layout=compact" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebe-Kexe&theme=react-dark&bg_color=0d1117&color=ffffff&line=555555&point=aaaaaa&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kexe-dev&theme=react-dark&bg_color=0d1117&color=ffffff&line=555555&point=aaaaaa&hide_border=true" />
 </p>
 
 ---
