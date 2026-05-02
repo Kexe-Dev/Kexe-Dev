@@ -16,9 +16,9 @@
 17-year-old student specializing in **Artificial Intelligence**.
 Passionate about networks, cybersecurity, server infrastructure, and building things...
 
-- 🖥️ Running my own **dedicated physical server** at [arqone.eu](https://arqone.eu) — Ubuntu Server, Nginx, Cloudflare, Pterodactyl...
-- 🐍 **Python** developer — automation, Discord bots, scripting, data tools...
-- 🌐 **Networking** — Cisco CCNA certified, DNS, reverse proxy, self-hosting...
+- 🖥️ Running my own **dedicated physical server** at [arqone.eu](https://arqone.eu) - Ubuntu Server, Nginx, Cloudflare, Pterodactyl...
+- 🐍 **Python** developer - automation, Discord bots, scripting, data tools...
+- 🌐 **Networking** - Cisco CCNA certified, DNS, reverse proxy, self-hosting...
 - 🖨️ **3D printing** hobbyist
 - 🔒 **Arch Linux** daily driver (btw)
 - 🤖 Experimenting with things
@@ -59,21 +59,21 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 
 ## 🚀 Projects
 
-**[arqone.eu](https://arqone.eu)** — Personal server infrastructure & portfolio *(2+ years in development)*
+**[arqone.eu](https://arqone.eu)** - Personal server infrastructure & portfolio *(2+ years in development)*
 > Physical dedicated server · Ubuntu Server · Nginx reverse proxy · Cloudflare DNS & SSL · Pterodactyl game panel · Discord community
 
-**Arqone Frostline** — Public modded Minecraft server *(completed)*
+**Arqone Frostline** - Public modded Minecraft server *(completed)*
 > Full server management, modpack creation & configuration, community management
 
-**Python & Discord bots** — [github.com/bebe-kexe](https://github.com/bebe-kexe)
+**Python & Discord bots** - [github.com/bebe-kexe](https://github.com/bebe-kexe)
 > Automation scripts, Discord bots for community management, self-hosted AI tooling experiments
 
 ---
 
 ## 🏅 Certifications
 
-- 📡 **Cisco CCNA: Introduction to Networks** — Cisco Networking Academy
-- 🇬🇧 **Cambridge English B2** — Grade A (PET)
+- 📡 **Cisco CCNA: Introduction to Networks** - Cisco Networking Academy
+- 🇬🇧 **Cambridge English B2** - Grade A (PET)
 
 ---
 
