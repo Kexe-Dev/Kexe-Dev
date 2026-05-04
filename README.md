@@ -1,5 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Alexander+Miroslav+Milan;AI+Student;Networks+%7C+Cybersecurity+%7C+Self-hosting;Building+arqone.eu" alt="Typing SVG" />
+
+  <br>
+
+  <a href="https://ko-fi.com/kexe">
+  <img src="https://img.shields.io/badge/Ko--fi-Support%20me-white?style=for-the-badge&logo=ko-fi&logoColor=black" />
+  </a>
 </h1>
 
 <p align="center">
