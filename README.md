@@ -75,7 +75,8 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 **Python & Discord bots** - [github.com/Kexe-Dev](https://github.com/kexe-dev)
 > Automation scripts, Discord bots for community management, self-hosted AI tooling experiments
 
-And a lot more!
+
+...and a lot more!
 
 ---
 
