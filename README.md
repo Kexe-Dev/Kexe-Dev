@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/OS-Arch_Linux-ffffff?style=for-the-badge&logo=arch-linux&logoColor=black"/>
   <a href="https://arqone.eu"><img src="https://img.shields.io/badge/arqone.eu-dddddd?style=for-the-badge&logo=firefox&logoColor=black" alt="Website"/></a>
   <a href="https://instagram.com/arqone.eu"><img src="https://img.shields.io/badge/Instagram-aaaaaa?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
-  <a href="https://discord.com/invite/ND5rRqMbfp"><img src="https://img.shields.io/badge/Discord-666666?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <img src="https://komarev.com/ghpvc/?username=bebe-Kexe&style=for-the-badge&color=333333&label=PROFILE+VIEWS&labelColor=111111" alt="Profile views"/>
+  <a href="https://discord.com/users/567010381449396224"><img src="https://img.shields.io/badge/Discord-666666?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Kexe-Dev&style=for-the-badge&color=333333&label=PROFILE+VIEWS&labelColor=111111" alt="Profile views"/>
 </p>
 
 ---
@@ -72,8 +72,10 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 **Arqone Frostline** - Public modded Minecraft server *(completed)*
 > Full server management, modpack creation & configuration, community management
 
-**Python & Discord bots** - [github.com/kexe-dev](https://github.com/kexe-dev)
+**Python & Discord bots** - [github.com/Kexe-Dev](https://github.com/kexe-dev)
 > Automation scripts, Discord bots for community management, self-hosted AI tooling experiments
+
+And a lot more!
 
 ---
 
