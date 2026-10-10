@@ -25,7 +25,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 
 - 🖥️ Running my own **dedicated physical server** at [arqone.eu](https://arqone.eu) - Ubuntu Server, Nginx, Cloudflare, Pterodactyl...
 - 🐍 **Python** developer - automation, Discord bots, scripting, data tools...
-- 🌐 **Networking** - Cisco CCNA certified, DNS, reverse proxy, self-hosting...
+- 🌐 **Networking** - Cisco CCNA certified*, DNS, reverse proxy, self-hosting...
 - 🖨️ **3D printing** hobbyist
 - 🔒 **Arch Linux** daily driver (btw)
 - 🤖 Experimenting with things
@@ -82,7 +82,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 
 ## 🏅 Certifications
 
-- 📡 **Cisco CCNA: Introduction to Networks** - Cisco Networking Academy
+- 📡 ***Cisco CCNA: Introduction to Networks** - Cisco Networking Academy
 - 🇬🇧 **Cambridge English B2** - Grade A (PET)
 
 ---
