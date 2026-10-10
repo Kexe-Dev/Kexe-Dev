@@ -20,12 +20,12 @@
 
 ## 👤 About Me
 
-17-year-old student specializing in **Artificial Intelligence**.
+Student specializing in **Artificial Intelligence**.
 Passionate about networks, cybersecurity, server infrastructure, and building things...
 
 - 🖥️ Running my own **dedicated physical server** at [arqone.eu](https://arqone.eu) - Ubuntu Server, Nginx, Cloudflare, Pterodactyl...
 - 🐍 **Python** developer - automation, Discord bots, scripting, data tools...
-- 🌐 **Networking** - Cisco CCNA certified*, DNS, reverse proxy, self-hosting...
+- 🌐 **Networking** - DNS, reverse proxy, self-hosting; Cisco Networking Academy: CCNA Introduction to Networks (course 1 of 3)
 - 🖨️ **3D printing** hobbyist
 - 🔒 **Arch Linux** daily driver (btw)
 - 🤖 Experimenting with things
@@ -67,9 +67,9 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## 🚀 Projects
 
 **[arqone.eu](https://arqone.eu)** - Personal server infrastructure & portfolio *(2+ years in development)*
-> Physical dedicated server · Ubuntu Server · Nginx reverse proxy · Cloudflare DNS & SSL · Pterodactyl game panel · Discord community
+> Physical self-built physical server · Ubuntu Server · Nginx reverse proxy · Cloudflare DNS & SSL · Pterodactyl game panel · Discord community
 
-**Arqone Frostline** - Public modded Minecraft server *(completed)*
+**[Arqone Frostline](https://arqone.eu/projects/frostline** - Public modded Minecraft server *(completed)*
 > Full server management, modpack creation & configuration, community management
 
 **Python & Discord bots** - [github.com/Kexe-Dev](https://github.com/kexe-dev)
@@ -82,7 +82,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 
 ## 🏅 Certifications
 
-- 📡 ***Cisco CCNA: Introduction to Networks** - Cisco Networking Academy
+- 📡 **Cisco Networking Academy: CCNA Introduction to Networks** - (course 1 of 3)
 - 🇬🇧 **Cambridge English B2** - Grade A (PET)
 
 ---
