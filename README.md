@@ -83,7 +83,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## 🏅 Certifications
 
 - 📡 **Cisco Networking Academy: CCNA Introduction to Networks** - (course 1 of 3)
-- 🇬🇧 **Cambridge English B2** - Grade A (PET)
+- 🇬🇧 **Cambridge B1 Preliminary (PET), Grade A** - certified at B2
 
 ---
 
