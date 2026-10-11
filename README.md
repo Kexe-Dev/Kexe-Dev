@@ -67,9 +67,9 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## 🚀 Projects
 
 **[arqone.eu](https://arqone.eu)** - Personal server infrastructure & portfolio *(2+ years in development)*
-> Physical self-built physical server · Ubuntu Server · Nginx reverse proxy · Cloudflare DNS & SSL · Pterodactyl game panel · Discord community
+> Physical self-built server · Ubuntu Server · Nginx reverse proxy · Cloudflare DNS & SSL · Pterodactyl game panel · Discord community
 
-**[Arqone Frostline](https://arqone.eu/projects/frostline** - Public modded Minecraft server *(completed)*
+**[Arqone Frostline](https://arqone.eu/projects/frostline)** - Whitelisted modded Minecraft server *(completed)*
 > Full server management, modpack creation & configuration, community management
 
 **Python & Discord bots** - [github.com/Kexe-Dev](https://github.com/kexe-dev)
